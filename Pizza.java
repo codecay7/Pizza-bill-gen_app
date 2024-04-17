@@ -1,42 +1,16 @@
 package mini_app;
 
 public class Pizza {
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+
 
     boolean veg;
     private int price;
+
     final int extraCheesePrice = 100;
     final int extraToppingsPrice = 150;
     final int bagPackPrice = 20;
-    final int Dining=0;
-
+    final int Dining=0;
     int basePizzaPrice;
-
 
 
     //constructor
